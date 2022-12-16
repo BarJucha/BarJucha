@@ -2,7 +2,10 @@
  🌱 I’m currently learning ...
  
  📫 [Website](https://barjucha.github.io/)
+ 
+ [Repozytorium ECON](https://github.com/YuliangXiu/ECON)
 
+ [Strona artykułu](https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from)
 <!--
 **BarJucha/BarJucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
